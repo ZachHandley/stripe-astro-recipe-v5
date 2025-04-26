@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@stripe/stripe-js": "^3.3.0",
-    "astro": "^4.7.0",
+    "astro": "^5.7.5",
     "stripe": "^15.4.0"
   },
   "devDependencies": {
